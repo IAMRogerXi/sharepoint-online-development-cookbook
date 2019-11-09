@@ -2,6 +2,12 @@
 
 ## Build your own SharePoint online solution
 
-This is an example chapter of a Leanpub book.  To start writing your book, simply replace the contents of this text box with your first chapter.
+## SharePoint online page model
 
-Chapter 2 has a quick introduction to Markdown. Click on "Chapter 2" on the left to see them.
+## SharePoint online API
+
+## Choose a SharePoint online development model
+
+## Debug and trace your code in SharePoint online
+
+## OAuth

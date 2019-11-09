@@ -1,0 +1,7 @@
+# What is new in SharePoint Online development
+
+## Build your own SharePoint online solution
+
+This is an example chapter of a Leanpub book.  To start writing your book, simply replace the contents of this text box with your first chapter.
+
+Chapter 2 has a quick introduction to Markdown. Click on "Chapter 2" on the left to see them.
